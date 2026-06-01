@@ -1,4 +1,12 @@
-**[עברית](README.md)** | **[English]**
+<table>
+  <tr>
+    <td bgcolor="#1f242c" align="center"><b>🇮🇱 עברית</b></td>
+    <td align="center"><a href="README_en.md"><b>🇬🇧 English</b></a></td>
+  </tr>
+</table>
+
+---
+
 ___
 
 # Translate Screen
