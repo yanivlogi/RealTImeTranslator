@@ -1,3 +1,6 @@
+**[עברית](README.md)** | **[English]**
+___
+
 # Translate Screen
 
 Description
